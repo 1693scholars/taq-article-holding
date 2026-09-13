@@ -6,7 +6,7 @@
     "heading": "POWERED BY",
     "name": "THE AMERICAN QUORUM",
     "slogan": "Independent national news, analysis, and perspective.",
-    "imageUrl": "https://1693scholars.github.io/taq-article-holding/tv/assets/taq-site.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/taq-site.jpeg",
     "url": "www.TheAmericanQuorum.com",
     "footer": "Available in English and Español"
   },
@@ -16,7 +16,7 @@
       "heading": "SPONSORED BY",
       "name": "RLR2Disney Vacation Homes",
       "slogan": "An affordable alternative to a Disney resort—vacation-home comfort just three turns from the S. World Drive entrance to Walt Disney World.",
-      "imageUrl": "https://1693scholars.github.io/taq-article-holding/tv/assets/rlr2disney.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/rlr2disney.jpeg",
       "url": "www.RLR2Disney.com",
       "footer": "",
       "activeDays": [
