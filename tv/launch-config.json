@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "defaultDurationSeconds": 4,
   "poweredBy": {
-    "id": "the-american-quorum",
-    "heading": "POWERED BY",
-    "name": "THE AMERICAN QUORUM",
-    "slogan": "Independent national news, analysis, and perspective.",
-    "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/taq-site.jpeg",
-    "url": "www.TheAmericanQuorum.com",
-    "footer": "Available in English and Español"
+    "id": "rlr2disney",
+    "heading": "PRESENTED BY",
+    "name": "RLR2Disney Vacation Homes",
+    "slogan": "An affordable alternative to a Disney resort—vacation-home comfort just three turns from the S. World Drive entrance to Walt Disney World.",
+    "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/rlr2disney.jpeg",
+    "url": "www.RLR2Disney.com",
+    "footer": ""
   },
   "sponsors": [
     {
-      "id": "rlr2disney",
+      "id": "mouse-marketplace",
       "heading": "SPONSORED BY",
-      "name": "RLR2Disney Vacation Homes",
-      "slogan": "An affordable alternative to a Disney resort—vacation-home comfort just three turns from the S. World Drive entrance to Walt Disney World.",
-      "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/rlr2disney.jpeg",
-      "url": "www.RLR2Disney.com",
+      "name": "Mouse Marketplace",
+      "slogan": "An independent Celebration, Florida retailer offering Disney-inspired apparel, gifts, accessories, and Resort Gift Baskets. MM supports small shops and artisans, and is not affiliated with The Walt Disney Company.",
+      "imageUrl": "https://raw.githubusercontent.com/1693scholars/taq-article-holding/main/tv/assets/mouse-marketplace.jpeg",
+      "url": "MouseMarketplace.com",
       "footer": "",
       "activeDays": [
         "SUNDAY",
