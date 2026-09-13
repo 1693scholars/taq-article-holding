@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "defaultDurationSeconds": 4,
+  "poweredBy": {
+    "id": "the-american-quorum",
+    "heading": "POWERED BY",
+    "name": "THE AMERICAN QUORUM",
+    "slogan": "Independent national news, analysis, and perspective.",
+    "imageUrl": "https://1693scholars.github.io/taq-article-holding/tv/assets/taq-site.jpeg",
+    "url": "www.TheAmericanQuorum.com",
+    "footer": "Available in English and Español"
+  },
+  "sponsors": [
+    {
+      "id": "rlr2disney",
+      "heading": "SPONSORED BY",
+      "name": "RLR2Disney Vacation Homes",
+      "slogan": "An affordable alternative to a Disney resort—vacation-home comfort just three turns from the S. World Drive entrance to Walt Disney World.",
+      "imageUrl": "https://1693scholars.github.io/taq-article-holding/tv/assets/rlr2disney.jpeg",
+      "url": "www.RLR2Disney.com",
+      "footer": "",
+      "activeDays": [
+        "SUNDAY",
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY"
+      ]
+    }
+  ]
+}
